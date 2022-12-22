@@ -1,4 +1,6 @@
 # TimeToWater
 A monitor of soil moisture using an M5StickC
 
-# Test
+### Instructions
+
+![Instructional image](Picture.png)
